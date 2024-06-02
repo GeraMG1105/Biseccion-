@@ -22,7 +22,7 @@ int main() {
     std::cout << "Ingrese la tolerancia: ";
     std::cin >> tolerancia;
     std::cout << "Ingrese el máximo de iteraciones: ";
-    std::cin >> maxIteraciones;
+    std::cin >> maxIteraciones; // das
 
     try {
         // Actualizar los parámetros del solver con los valores ingresados por el usuario
